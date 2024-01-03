@@ -1,6 +1,6 @@
 # Password Generator
-# Video Demo:  <https://youtu.be/oHO_v-DH_Ws>
-# Description:
+## Video Demo:  <https://youtu.be/oHO_v-DH_Ws>
+## Description:
 The main idea of my password generator is:
 
 1. Ask the user if they want to generate a password.
@@ -31,8 +31,8 @@ The last step was to use the .join method to form a single string to return the 
 
 This is a thorough description of what my program for generating a password does.
 
-# A little about me:
+## A little about me:
 Hi, I'm Geremias Lovera, author of this code, and I'm an accountant student passioned about programming. This has been a long journey for me and I'm glad I can share my final project with everyone.
 
-Gmail: geremiaslovera1502@gmail.com
-LinkedIn: https://www.linkedin.com/in/geremias-lovera-335b7a191/
+* Gmail: geremiaslovera1502@gmail.com
+* LinkedIn: https://www.linkedin.com/in/geremias-lovera-335b7a191/
